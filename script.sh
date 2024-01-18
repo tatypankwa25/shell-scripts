@@ -4,6 +4,7 @@
 # Date: Jan 15, 2024
 ##################################
 ###Helloooooooooooooooooooooooooooooooooooooooooooooooooooo
+###yessssssssssssssssssssssssssssssssssssssssssssssssssssssss
 set -x
 
 # create deployment directory
