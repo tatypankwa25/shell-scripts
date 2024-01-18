@@ -6,6 +6,7 @@
 ###Helloooooooooooooooooooooooooooooooooooooooooooooooooooo
 ###yessssssssssssssssssssssssssssssssssssssssssssssssssssssss
 ###Great engineers to be
+# It will end in praise, Amen
 set -x
 
 # create deployment directory
